@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-17_2048-clone",
-    "currentPage": "html.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5917,7 +5917,7 @@
         }
       ]
     },
-    "html.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
